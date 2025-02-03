@@ -1,6 +1,7 @@
 [URL to the Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 4 Articles Using the Same Dataset:
+
 [Peer-Reviewed Article 1](https://pubmed.ncbi.nlm.nih.gov/33861150/)
 
 [Peer-Reviewed Article 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9140837/)
