@@ -11,4 +11,4 @@
 [Peer-Reviewed Article 4](https://ieeexplore.ieee.org/document/8741582)
 
 
-1st Version (ResNet-18-v1 Branch): Used Tranfer Learning with ResNet-18
+1st Version (ResNet-18-v1 Branch): Used Transfer Learning with ResNet-18: 81% Accuracy
