@@ -9,3 +9,6 @@
 [Peer-Reviewed Article 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC10252226/)
 
 [Peer-Reviewed Article 4](https://ieeexplore.ieee.org/document/8741582)
+
+
+1st Version (ResNet-18-v1 Branch): Used Tranfer Learning with ResNet-18
