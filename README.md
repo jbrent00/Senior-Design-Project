@@ -13,5 +13,5 @@
 
 1st Version (ResNet-18-v1 Branch): Used Transfer Learning with ResNet-18: 80.37% Test Accuracy
 
-- ResNet18-L2Reg(.0001)-LR(.0001)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .0001. 10 epoch. 81.09% Test Accuracy
-- ResNet18-L2Reg(.0001)-LR(.001)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .001. 10 epoch. 82.37% Test Accuracy
+- ResNet18-L2Reg(.0001)-LR(.0001)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .0001. 10 epoch. No data augmentation. 81.09% Test Accuracy
+- ResNet18-L2Reg(.0001)-LR(.001)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .001. 10 epoch. No data augmentation. 82.37% Test Accuracy
