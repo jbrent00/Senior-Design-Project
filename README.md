@@ -18,3 +18,4 @@
 - ResNet18-L2Reg(.0001)-LR(.01)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .01. 10 epoch. No data augmentation. 84.13% Test Accuracy
 - ResNet18-L2Reg(.0001)-LR(.0005)-DA-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .0005. 25 epoch. Data augmentation (pre-training). 84.46% Test Accuracy
 - ResNet18-L2Reg(.001)-LR(.0005)-DA-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .0005. 25 epoch. Data augmentation (pre-training). 83.65% Test Accuracy
+- ResNet18-L2Reg(.01)-LR(.0005)-DA-v1 Branch: Transfer Learning with ResNet18, L2 Regularization, LR initialized to .0005. 25 epoch. Data augmentation (pre-training). 82.53% Test Accuracy
