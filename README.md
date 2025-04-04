@@ -33,3 +33,4 @@
 - ResNet18-L2Reg(.0001)-LR(.001)-DA-DO(.4)-v3 Branch: Transfer Learning with ResNet18, L2 Regularization .0001 , LR initialized to .001. 25 epoch. Data augmentation (pre-training). Dropout (p=.4). 89.42% Test Accuracy. .1291 Validation Loss
 - ResNet18-L2Reg(.001)-LR(.0001)-DA-DO(.4)-v2 Branch: Transfer Learning with ResNet18, L2 Regularization .001 , LR initialized to .0001. 25 epoch. Data augmentation (pre-training). Dropout (p=.4). 88.14% Test Accuracy. .1986 Validation Loss
 - ResNet18-L2Reg(.01)-LR(.0001)-DA-DO(.4)-v2 Branch: Transfer Learning with ResNet18, L2 Regularization .01 , LR initialized to .0001. 25 epoch. Data augmentation (pre-training). Dropout (p=.4). 87.02% Test Accuracy. .2114 Validation Loss
+- NOTE: 87.98% accuracy with DAv2 saved to /content/drive/My Drive/chest_xray_models/resnet18_L2Reg0001_001LR_DA2_DO04_v2.pth
