@@ -38,4 +38,5 @@
 - ResNet18-L2Reg(.0001)-LR(.0001)-DAv3-DO(.4)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization .0001 , LR initialized to .0001. 25 epoch. Data augmentation (pre-training). Dropout (p=.4). 88.46% Test Accuracy. .4125 Validation Loss
 - ResNet18-L2Reg(.0001)-LR(.0001)-DAv3-DO(.4)-v2 Branch: Transfer Learning with ResNet18, L2 Regularization .0001 , LR initialized to .0001. 25 epoch. Data augmentation (pre-training). Dropout (p=.4). 89.26% Test Accuracy. .3269 Validation Loss
 - ResNet18-L2Reg(.0001)-LR(.0001)-DAv3-DO(.5)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization .0001 , LR initialized to .0001. 25 epoch. Data augmentation (pre-training). Dropout (p=.5). 89.42% Test Accuracy. .3205 Validation Loss
+- ResNet18-L2Reg(.0001)-LR(.0001)-DAv3-DO(.6)-v1 Branch: Transfer Learning with ResNet18, L2 Regularization .0001 , LR initialized to .0001. 25 epoch. Data augmentation (pre-training). Dropout (p=.6). 89.10% Test Accuracy. .4161 Validation Loss
 
